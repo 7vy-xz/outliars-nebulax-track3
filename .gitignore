@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Exclude large hackathon dataset files
+problem_statement/
+
+# Exclude Streamlit local runtime files
+.streamlit/secrets.toml
