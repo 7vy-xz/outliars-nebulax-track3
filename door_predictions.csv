@@ -1,101 +1,39 @@
-id,prediction
-0,Normal
-1,Normal
-2,Normal
-3,Normal
-4,Abnormal resistance
-5,Abnormal resistance
-6,Abnormal resistance
-7,Abnormal resistance
-8,Abnormal resistance
-9,Abnormal resistance
-10,Normal
-11,Normal
-12,Normal
-13,Normal
-14,Normal
-15,Abnormal resistance
-16,Abnormal resistance
-17,Abnormal resistance
-18,Abnormal resistance
-19,Normal
-20,Normal
-21,Normal
-22,Normal
-23,Normal
-24,Normal
-25,Normal
-26,Normal
-27,Normal
-28,Normal
-29,Normal
-30,Normal
-31,Normal
-32,Normal
-33,Abnormal resistance
-34,Normal
-35,Normal
-36,Normal
-37,Normal
-38,Normal
-39,Normal
-40,Normal
-41,Normal
-42,Normal
-43,Normal
-44,Normal
-45,Normal
-46,Normal
-47,Normal
-48,Normal
-49,Normal
-50,Normal
-51,Normal
-52,Normal
-53,Normal
-54,Normal
-55,Normal
-56,Normal
-57,Normal
-58,Normal
-59,Normal
-60,Normal
-61,Normal
-62,Normal
-63,Normal
-64,Normal
-65,Normal
-66,Normal
-67,Normal
-68,Normal
-69,Normal
-70,Normal
-71,Normal
-72,Normal
-73,Normal
-74,Normal
-75,Normal
-76,Normal
-77,Normal
-78,Normal
-79,Normal
-80,Normal
-81,Normal
-82,Normal
-83,Normal
-84,Normal
-85,Normal
-86,Normal
-87,Normal
-88,Normal
-89,Normal
-90,Normal
-91,Normal
-92,Normal
-93,Normal
-94,Normal
-95,Normal
-96,Normal
-97,Normal
-98,Normal
-99,Normal
+start_time,end_time,prediction
+2023-7-5-0-0-0-0,2023-7-5-0-0-3-760,Normal
+2023-7-5-0-0-15-5,2023-7-5-0-0-18-765,Normal
+2023-7-5-0-1-2-40,2023-7-5-0-1-4-840,Normal
+2023-7-5-0-1-58-995,2023-7-5-0-2-1-775,Abnormal resistance
+2023-7-5-0-2-14-551,2023-7-5-0-2-18-51,Normal
+2023-7-5-0-2-39-840,2023-7-5-0-2-43-540,Normal
+2023-7-5-0-3-21-783,2023-7-5-0-3-24-623,Normal
+2023-7-5-0-3-43-861,2023-7-5-0-3-47-281,Abnormal resistance
+2023-7-5-0-4-35-655,2023-7-5-0-4-38-415,Abnormal resistance
+2023-7-5-0-5-5-733,2023-7-5-0-5-8-453,Abnormal resistance
+2023-7-5-0-5-46-252,2023-7-5-0-5-49-992,Abnormal resistance
+2023-7-5-0-6-32-903,2023-7-5-0-6-35-603,Abnormal resistance
+2023-7-5-0-7-9-567,2023-7-5-0-7-13-247,Normal
+2023-7-5-0-7-51-134,2023-7-5-0-7-53-994,Normal
+2023-7-5-0-8-31-83,2023-7-5-0-8-33-923,Normal
+2023-7-5-0-9-18-243,2023-7-5-0-9-21-63,Normal
+2023-7-5-0-10-4-45,2023-7-5-0-10-7-525,Normal
+2023-7-5-0-10-26-701,2023-7-5-0-10-29-541,Normal
+2023-7-5-0-11-17-664,2023-7-5-0-11-20-504,Abnormal resistance
+2023-7-5-0-12-4-550,2023-7-5-0-12-7-370,Abnormal resistance
+2023-7-5-0-12-35-402,2023-7-5-0-12-38-942,Normal
+2023-7-5-0-13-17-531,2023-7-5-0-13-21-231,Normal
+2023-7-5-0-14-5-850,2023-7-5-0-14-9-570,Abnormal resistance
+2023-7-5-0-14-30-754,2023-7-5-0-14-34-534,Normal
+2023-7-5-0-15-27-662,2023-7-5-0-15-31-102,Abnormal resistance
+2023-7-5-0-16-20-947,2023-7-5-0-16-24-727,Normal
+2023-7-5-0-17-9-362,2023-7-5-0-17-12-202,Normal
+2023-7-5-0-18-7-558,2023-7-5-0-18-10-238,Normal
+2023-7-5-0-18-36-685,2023-7-5-0-18-39-465,Normal
+2023-7-5-0-19-1-786,2023-7-5-0-19-5-546,Normal
+2023-7-5-0-19-40-436,2023-7-5-0-19-44-176,Abnormal resistance
+2023-7-5-0-20-21-300,2023-7-5-0-20-25-0,Normal
+2023-7-5-0-20-55-731,2023-7-5-0-20-59-411,Normal
+2023-7-5-0-21-25-504,2023-7-5-0-21-29-284,Abnormal resistance
+2023-7-5-0-22-17-683,2023-7-5-0-22-20-363,Normal
+2023-7-5-0-22-38-967,2023-7-5-0-22-41-787,Abnormal resistance
+2023-7-5-0-22-52-897,2023-7-5-0-22-56-377,Normal
+2023-7-5-0-23-45-804,2023-7-5-0-23-49-544,Abnormal resistance
