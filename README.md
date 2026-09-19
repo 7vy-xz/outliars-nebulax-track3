@@ -6,6 +6,13 @@
 
 ---
 
+## 🔗 Quick Links
+* **Live App Dashboard:** https://nebulax-app-435023706723.us-central1.run.app/
+* **Pitch Video:** https://youtu.be/f__jzvHL-8s
+* **Final Validation Score:** **0.842** (IoU-Weighted F1 Score)
+
+---
+
 ## 📌 Executive Summary
 In high-density transit networks like Singapore’s MRT, a single train door failure during peak operational hours triggers severe line congestion, commuter delays, and steep financial reliability penalties exceeding **$22,500 per major incident**. 
 
@@ -35,11 +42,15 @@ Our interactive operator dashboard (`app.py`) features:
 
 ```tree
 NEBULAX/
+├── .streamlit/            # UI configuration for the dashboard
+├── assets/                # Visual assets (Header banner & architecture diagram)
 ├── app.py                 # Main Streamlit Operator Dashboard
-├── pipeline.py            # ML pipeline (K-Means, SMOTE, Decision Tree, Evaluation)
+├── pipeline.py            # ML pipeline (K-Means, SMOTE, Decision Tree)
+├── generate_preds.py      # Segmentation logic that groups predictions (Score: 0.84)
 ├── requirements.txt       # Python dependencies
 ├── Dockerfile             # Container configuration for Google Cloud Run
 ├── .dockerignore          # Optimization filters for deployment
-├── assets/                # Visual assets (Header banner & architecture diagram)
-├── door_predictions.csv   # Official generated submission file
+├── NEBULA_X_Presentation.pptx # Pitch deck presentation slides
+├── door_predictions.csv   # Raw output logs
+├── predictions.zip        # Final hackathon-compliant submission file
 └── README.md              # Project documentation
